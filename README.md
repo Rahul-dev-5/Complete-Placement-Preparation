@@ -91,7 +91,7 @@ Always talk through your solution, explain any trade-offs you are making between
 1️⃣4️⃣ Graph\
 1️⃣5️⃣ Greedy\
 1️⃣6️⃣ Dynamic programming\
-1️⃣7️⃣Trie
+1️⃣7️⃣Tree
  <br><br><br>
 
  
